@@ -1,0 +1,1123 @@
+﻿  game-o.cpp
+D:\visual studio\荒岛求生\game-o.cpp(90,15): warning C4101: “temp”: 未引用的局部变量
+D:\visual studio\荒岛求生\game-o.cpp(140,3): error C2664: “bool InputBox(LPTSTR,int,LPCTSTR,LPCTSTR,LPCTSTR,int,int,bool)”: 无法将参数 1 从“char [20]”转换为“LPTSTR”
+D:\visual studio\荒岛求生\game-o.cpp(140,12): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(287,6): message : 参见“InputBox”的声明
+D:\visual studio\荒岛求生\game-o.cpp(140,3): message : 尝试匹配参数列表“(char [20], int, const char [37], const char [5])”时
+D:\visual studio\荒岛求生\game-o.cpp(143,4): error C2664: “int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)”: 无法将参数 2 从“const char [15]”转换为“LPCWSTR”
+D:\visual studio\荒岛求生\game-o.cpp(143,21): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(9161,1): message : 参见“MessageBoxW”的声明
+D:\visual studio\荒岛求生\game-o.cpp(143,4): message : 尝试匹配参数列表“(int, const char [15], const char [5], long)”时
+D:\visual studio\荒岛求生\game-o.cpp(158,3): error C2664: “int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)”: 无法将参数 2 从“const char [21]”转换为“LPCWSTR”
+D:\visual studio\荒岛求生\game-o.cpp(158,20): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(9161,1): message : 参见“MessageBoxW”的声明
+D:\visual studio\荒岛求生\game-o.cpp(158,3): message : 尝试匹配参数列表“(int, const char [21], const char [5], long)”时
+D:\visual studio\荒岛求生\game-o.cpp(161,4): error C2664: “bool InputBox(LPTSTR,int,LPCTSTR,LPCTSTR,LPCTSTR,int,int,bool)”: 无法将参数 1 从“char [20]”转换为“LPTSTR”
+D:\visual studio\荒岛求生\game-o.cpp(161,14): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(287,6): message : 参见“InputBox”的声明
+D:\visual studio\荒岛求生\game-o.cpp(161,4): message : 尝试匹配参数列表“(char [20], int, const char [13], const char [5])”时
+D:\visual studio\荒岛求生\game-o.cpp(164,5): error C2664: “int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)”: 无法将参数 2 从“const char [15]”转换为“LPCWSTR”
+D:\visual studio\荒岛求生\game-o.cpp(164,22): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(9161,1): message : 参见“MessageBoxW”的声明
+D:\visual studio\荒岛求生\game-o.cpp(164,5): message : 尝试匹配参数列表“(int, const char [15], const char [5], long)”时
+D:\visual studio\荒岛求生\game-o.cpp(169,4): error C2664: “bool InputBox(LPTSTR,int,LPCTSTR,LPCTSTR,LPCTSTR,int,int,bool)”: 无法将参数 1 从“char [20]”转换为“LPTSTR”
+D:\visual studio\荒岛求生\game-o.cpp(169,13): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(287,6): message : 参见“InputBox”的声明
+D:\visual studio\荒岛求生\game-o.cpp(169,4): message : 尝试匹配参数列表“(char [20], int, const char [11], const char [5])”时
+D:\visual studio\荒岛求生\game-o.cpp(172,5): error C2664: “int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)”: 无法将参数 2 从“const char [13]”转换为“LPCWSTR”
+D:\visual studio\荒岛求生\game-o.cpp(172,22): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(9161,1): message : 参见“MessageBoxW”的声明
+D:\visual studio\荒岛求生\game-o.cpp(172,5): message : 尝试匹配参数列表“(int, const char [13], const char [5], long)”时
+D:\visual studio\荒岛求生\game-o.cpp(185,4): error C2664: “bool InputBox(LPTSTR,int,LPCTSTR,LPCTSTR,LPCTSTR,int,int,bool)”: 无法将参数 1 从“char [20]”转换为“LPTSTR”
+D:\visual studio\荒岛求生\game-o.cpp(185,13): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(287,6): message : 参见“InputBox”的声明
+D:\visual studio\荒岛求生\game-o.cpp(185,4): message : 尝试匹配参数列表“(char [20], int, const char [21], const char [5])”时
+D:\visual studio\荒岛求生\game-o.cpp(190,4): error C2664: “int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)”: 无法将参数 2 从“const char [19]”转换为“LPCWSTR”
+D:\visual studio\荒岛求生\game-o.cpp(190,21): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(9161,1): message : 参见“MessageBoxW”的声明
+D:\visual studio\荒岛求生\game-o.cpp(190,4): message : 尝试匹配参数列表“(int, const char [19], const char [5], long)”时
+D:\visual studio\荒岛求生\game-o.cpp(196,4): error C2664: “int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)”: 无法将参数 2 从“const char [33]”转换为“LPCWSTR”
+D:\visual studio\荒岛求生\game-o.cpp(196,21): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(9161,1): message : 参见“MessageBoxW”的声明
+D:\visual studio\荒岛求生\game-o.cpp(196,4): message : 尝试匹配参数列表“(int, const char [33], const char [5], long)”时
+D:\visual studio\荒岛求生\game-o.cpp(204,5): error C2664: “int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)”: 无法将参数 2 从“const char [65]”转换为“LPCWSTR”
+D:\visual studio\荒岛求生\game-o.cpp(204,22): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(9161,1): message : 参见“MessageBoxW”的声明
+D:\visual studio\荒岛求生\game-o.cpp(204,5): message : 尝试匹配参数列表“(int, const char [65], const char [5], long)”时
+D:\visual studio\荒岛求生\game-o.cpp(208,5): error C2664: “int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)”: 无法将参数 2 从“const char [65]”转换为“LPCWSTR”
+D:\visual studio\荒岛求生\game-o.cpp(208,22): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(9161,1): message : 参见“MessageBoxW”的声明
+D:\visual studio\荒岛求生\game-o.cpp(208,5): message : 尝试匹配参数列表“(int, const char [65], const char [5], long)”时
+D:\visual studio\荒岛求生\game-o.cpp(212,5): error C2664: “int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)”: 无法将参数 2 从“const char [65]”转换为“LPCWSTR”
+D:\visual studio\荒岛求生\game-o.cpp(212,22): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(9161,1): message : 参见“MessageBoxW”的声明
+D:\visual studio\荒岛求生\game-o.cpp(212,5): message : 尝试匹配参数列表“(int, const char [65], const char [5], long)”时
+D:\visual studio\荒岛求生\game-o.cpp(216,5): error C2664: “int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)”: 无法将参数 2 从“const char [48]”转换为“LPCWSTR”
+D:\visual studio\荒岛求生\game-o.cpp(216,22): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(9161,1): message : 参见“MessageBoxW”的声明
+D:\visual studio\荒岛求生\game-o.cpp(216,5): message : 尝试匹配参数列表“(int, const char [48], const char [9], long)”时
+D:\visual studio\荒岛求生\game-o.cpp(238,4): error C2664: “int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)”: 无法将参数 2 从“const char [44]”转换为“LPCWSTR”
+D:\visual studio\荒岛求生\game-o.cpp(238,21): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(9161,1): message : 参见“MessageBoxW”的声明
+D:\visual studio\荒岛求生\game-o.cpp(238,4): message : 尝试匹配参数列表“(int, const char [44], const char [5], long)”时
+D:\visual studio\荒岛求生\game-o.cpp(251,4): error C2664: “int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)”: 无法将参数 2 从“const char [46]”转换为“LPCWSTR”
+D:\visual studio\荒岛求生\game-o.cpp(251,21): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(9161,1): message : 参见“MessageBoxW”的声明
+D:\visual studio\荒岛求生\game-o.cpp(251,4): message : 尝试匹配参数列表“(int, const char [46], const char [5], long)”时
+D:\visual studio\荒岛求生\game-o.cpp(268,4): error C2664: “int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)”: 无法将参数 2 从“char [100]”转换为“LPCWSTR”
+D:\visual studio\荒岛求生\game-o.cpp(268,20): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(9161,1): message : 参见“MessageBoxW”的声明
+D:\visual studio\荒岛求生\game-o.cpp(268,4): message : 尝试匹配参数列表“(int, char [100], const char [5], long)”时
+D:\visual studio\荒岛求生\game-o.cpp(281,3): error C2664: “int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)”: 无法将参数 2 从“const char [23]”转换为“LPCWSTR”
+D:\visual studio\荒岛求生\game-o.cpp(281,20): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(9161,1): message : 参见“MessageBoxW”的声明
+D:\visual studio\荒岛求生\game-o.cpp(281,3): message : 尝试匹配参数列表“(int, const char [23], const char [9], long)”时
+D:\visual studio\荒岛求生\game-o.cpp(357,2): error C2665: “settextstyle”: 没有重载函数可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(249,6): message : 可能是“void settextstyle(int,int,LPCTSTR)”
+D:\visual studio\荒岛求生\game-o.cpp(357,2): message : “void settextstyle(int,int,LPCTSTR)”: 无法将参数 3 从“const char [5]”转换为“LPCTSTR”
+D:\visual studio\荒岛求生\game-o.cpp(357,22): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+D:\visual studio\荒岛求生\game-o.cpp(357,2): message : 尝试匹配参数列表“(int, int, const char [5])”时
+D:\visual studio\荒岛求生\game-o.cpp(360,20): error C2665: “textwidth”: 没有重载函数可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(228,5): message : 可能是“int textwidth(TCHAR)”
+D:\visual studio\荒岛求生\game-o.cpp(360,20): message : “int textwidth(TCHAR)”: 无法将参数 1 从“const char *”转换为“TCHAR”
+D:\visual studio\荒岛求生\game-o.cpp(360,30): message : 没有使该转换得以执行的上下文
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(227,5): message : 或    “int textwidth(LPCTSTR)”
+D:\visual studio\荒岛求生\game-o.cpp(360,20): message : “int textwidth(LPCTSTR)”: 无法将参数 1 从“const char *”转换为“LPCTSTR”
+D:\visual studio\荒岛求生\game-o.cpp(360,30): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+D:\visual studio\荒岛求生\game-o.cpp(360,20): message : 尝试匹配参数列表“(const char *)”时
+D:\visual studio\荒岛求生\game-o.cpp(361,20): error C2665: “textheight”: 没有重载函数可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(230,5): message : 可能是“int textheight(TCHAR)”
+D:\visual studio\荒岛求生\game-o.cpp(361,20): message : “int textheight(TCHAR)”: 无法将参数 1 从“const char *”转换为“TCHAR”
+D:\visual studio\荒岛求生\game-o.cpp(361,31): message : 没有使该转换得以执行的上下文
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(229,5): message : 或    “int textheight(LPCTSTR)”
+D:\visual studio\荒岛求生\game-o.cpp(361,20): message : “int textheight(LPCTSTR)”: 无法将参数 1 从“const char *”转换为“LPCTSTR”
+D:\visual studio\荒岛求生\game-o.cpp(361,31): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+D:\visual studio\荒岛求生\game-o.cpp(361,20): message : 尝试匹配参数列表“(const char *)”时
+D:\visual studio\荒岛求生\game-o.cpp(363,2): error C2665: “outtextxy”: 没有重载函数可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(226,6): message : 可能是“void outtextxy(int,int,TCHAR)”
+D:\visual studio\荒岛求生\game-o.cpp(363,2): message : “void outtextxy(int,int,TCHAR)”: 无法将参数 3 从“const char *”转换为“TCHAR”
+D:\visual studio\荒岛求生\game-o.cpp(363,20): message : 没有使该转换得以执行的上下文
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(225,6): message : 或    “void outtextxy(int,int,LPCTSTR)”
+D:\visual studio\荒岛求生\game-o.cpp(363,2): message : “void outtextxy(int,int,LPCTSTR)”: 无法将参数 3 从“const char *”转换为“LPCTSTR”
+D:\visual studio\荒岛求生\game-o.cpp(363,20): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+D:\visual studio\荒岛求生\game-o.cpp(363,2): message : 尝试匹配参数列表“(int, int, const char *)”时
+D:\visual studio\荒岛求生\game-o.cpp(372,2): error C2665: “settextstyle”: 没有重载函数可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(249,6): message : 可能是“void settextstyle(int,int,LPCTSTR)”
+D:\visual studio\荒岛求生\game-o.cpp(372,2): message : “void settextstyle(int,int,LPCTSTR)”: 无法将参数 3 从“const char [9]”转换为“LPCTSTR”
+D:\visual studio\荒岛求生\game-o.cpp(372,22): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+D:\visual studio\荒岛求生\game-o.cpp(372,2): message : 尝试匹配参数列表“(int, int, const char [9])”时
+D:\visual studio\荒岛求生\game-o.cpp(374,2): error C2665: “outtextxy”: 没有重载函数可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(226,6): message : 可能是“void outtextxy(int,int,TCHAR)”
+D:\visual studio\荒岛求生\game-o.cpp(374,2): message : “void outtextxy(int,int,TCHAR)”: 无法将参数 3 从“const char [9]”转换为“TCHAR”
+D:\visual studio\荒岛求生\game-o.cpp(374,21): message : 没有使该转换得以执行的上下文
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(225,6): message : 或    “void outtextxy(int,int,LPCTSTR)”
+D:\visual studio\荒岛求生\game-o.cpp(374,2): message : “void outtextxy(int,int,LPCTSTR)”: 无法将参数 3 从“const char [9]”转换为“LPCTSTR”
+D:\visual studio\荒岛求生\game-o.cpp(374,21): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+D:\visual studio\荒岛求生\game-o.cpp(374,2): message : 尝试匹配参数列表“(int, int, const char [9])”时
+D:\visual studio\荒岛求生\game-o.cpp(379,2): error C2665: “settextstyle”: 没有重载函数可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(249,6): message : 可能是“void settextstyle(int,int,LPCTSTR)”
+D:\visual studio\荒岛求生\game-o.cpp(379,2): message : “void settextstyle(int,int,LPCTSTR)”: 无法将参数 3 从“const char [5]”转换为“LPCTSTR”
+D:\visual studio\荒岛求生\game-o.cpp(379,22): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+D:\visual studio\荒岛求生\game-o.cpp(379,2): message : 尝试匹配参数列表“(int, int, const char [5])”时
+D:\visual studio\荒岛求生\game-o.cpp(382,2): error C2665: “outtextxy”: 没有重载函数可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(226,6): message : 可能是“void outtextxy(int,int,TCHAR)”
+D:\visual studio\荒岛求生\game-o.cpp(382,2): message : “void outtextxy(int,int,TCHAR)”: 无法将参数 3 从“const char [9]”转换为“TCHAR”
+D:\visual studio\荒岛求生\game-o.cpp(382,22): message : 没有使该转换得以执行的上下文
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(225,6): message : 或    “void outtextxy(int,int,LPCTSTR)”
+D:\visual studio\荒岛求生\game-o.cpp(382,2): message : “void outtextxy(int,int,LPCTSTR)”: 无法将参数 3 从“const char [9]”转换为“LPCTSTR”
+D:\visual studio\荒岛求生\game-o.cpp(382,22): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+D:\visual studio\荒岛求生\game-o.cpp(382,2): message : 尝试匹配参数列表“(int, int, const char [9])”时
+D:\visual studio\荒岛求生\game-o.cpp(384,2): error C2665: “outtextxy”: 没有重载函数可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(226,6): message : 可能是“void outtextxy(int,int,TCHAR)”
+D:\visual studio\荒岛求生\game-o.cpp(384,2): message : “void outtextxy(int,int,TCHAR)”: 无法将参数 3 从“const char [9]”转换为“TCHAR”
+D:\visual studio\荒岛求生\game-o.cpp(384,22): message : 没有使该转换得以执行的上下文
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(225,6): message : 或    “void outtextxy(int,int,LPCTSTR)”
+D:\visual studio\荒岛求生\game-o.cpp(384,2): message : “void outtextxy(int,int,LPCTSTR)”: 无法将参数 3 从“const char [9]”转换为“LPCTSTR”
+D:\visual studio\荒岛求生\game-o.cpp(384,22): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+D:\visual studio\荒岛求生\game-o.cpp(384,2): message : 尝试匹配参数列表“(int, int, const char [9])”时
+D:\visual studio\荒岛求生\game-o.cpp(387,2): error C2665: “settextstyle”: 没有重载函数可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(249,6): message : 可能是“void settextstyle(int,int,LPCTSTR)”
+D:\visual studio\荒岛求生\game-o.cpp(387,2): message : “void settextstyle(int,int,LPCTSTR)”: 无法将参数 3 从“const char [5]”转换为“LPCTSTR”
+D:\visual studio\荒岛求生\game-o.cpp(387,22): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+D:\visual studio\荒岛求生\game-o.cpp(387,2): message : 尝试匹配参数列表“(int, int, const char [5])”时
+D:\visual studio\荒岛求生\game-o.cpp(389,2): error C2665: “outtextxy”: 没有重载函数可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(226,6): message : 可能是“void outtextxy(int,int,TCHAR)”
+D:\visual studio\荒岛求生\game-o.cpp(389,2): message : “void outtextxy(int,int,TCHAR)”: 无法将参数 3 从“const char [11]”转换为“TCHAR”
+D:\visual studio\荒岛求生\game-o.cpp(389,22): message : 没有使该转换得以执行的上下文
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(225,6): message : 或    “void outtextxy(int,int,LPCTSTR)”
+D:\visual studio\荒岛求生\game-o.cpp(389,2): message : “void outtextxy(int,int,LPCTSTR)”: 无法将参数 3 从“const char [11]”转换为“LPCTSTR”
+D:\visual studio\荒岛求生\game-o.cpp(389,22): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+D:\visual studio\荒岛求生\game-o.cpp(389,2): message : 尝试匹配参数列表“(int, int, const char [11])”时
+D:\visual studio\荒岛求生\game-o.cpp(390,2): error C2665: “outtextxy”: 没有重载函数可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(226,6): message : 可能是“void outtextxy(int,int,TCHAR)”
+D:\visual studio\荒岛求生\game-o.cpp(390,2): message : “void outtextxy(int,int,TCHAR)”: 无法将参数 3 从“const char [11]”转换为“TCHAR”
+D:\visual studio\荒岛求生\game-o.cpp(390,22): message : 没有使该转换得以执行的上下文
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(225,6): message : 或    “void outtextxy(int,int,LPCTSTR)”
+D:\visual studio\荒岛求生\game-o.cpp(390,2): message : “void outtextxy(int,int,LPCTSTR)”: 无法将参数 3 从“const char [11]”转换为“LPCTSTR”
+D:\visual studio\荒岛求生\game-o.cpp(390,22): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+D:\visual studio\荒岛求生\game-o.cpp(390,2): message : 尝试匹配参数列表“(int, int, const char [11])”时
+D:\visual studio\荒岛求生\game-o.cpp(391,2): error C2665: “outtextxy”: 没有重载函数可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(226,6): message : 可能是“void outtextxy(int,int,TCHAR)”
+D:\visual studio\荒岛求生\game-o.cpp(391,2): message : “void outtextxy(int,int,TCHAR)”: 无法将参数 3 从“const char [13]”转换为“TCHAR”
+D:\visual studio\荒岛求生\game-o.cpp(391,22): message : 没有使该转换得以执行的上下文
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(225,6): message : 或    “void outtextxy(int,int,LPCTSTR)”
+D:\visual studio\荒岛求生\game-o.cpp(391,2): message : “void outtextxy(int,int,LPCTSTR)”: 无法将参数 3 从“const char [13]”转换为“LPCTSTR”
+D:\visual studio\荒岛求生\game-o.cpp(391,22): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+D:\visual studio\荒岛求生\game-o.cpp(391,2): message : 尝试匹配参数列表“(int, int, const char [13])”时
+D:\visual studio\荒岛求生\game-o.cpp(392,2): error C2665: “outtextxy”: 没有重载函数可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(226,6): message : 可能是“void outtextxy(int,int,TCHAR)”
+D:\visual studio\荒岛求生\game-o.cpp(392,2): message : “void outtextxy(int,int,TCHAR)”: 无法将参数 3 从“const char [13]”转换为“TCHAR”
+D:\visual studio\荒岛求生\game-o.cpp(392,22): message : 没有使该转换得以执行的上下文
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(225,6): message : 或    “void outtextxy(int,int,LPCTSTR)”
+D:\visual studio\荒岛求生\game-o.cpp(392,2): message : “void outtextxy(int,int,LPCTSTR)”: 无法将参数 3 从“const char [13]”转换为“LPCTSTR”
+D:\visual studio\荒岛求生\game-o.cpp(392,22): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+D:\visual studio\荒岛求生\game-o.cpp(392,2): message : 尝试匹配参数列表“(int, int, const char [13])”时
+D:\visual studio\荒岛求生\game-o.cpp(393,2): error C2665: “outtextxy”: 没有重载函数可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(226,6): message : 可能是“void outtextxy(int,int,TCHAR)”
+D:\visual studio\荒岛求生\game-o.cpp(393,2): message : “void outtextxy(int,int,TCHAR)”: 无法将参数 3 从“const char [17]”转换为“TCHAR”
+D:\visual studio\荒岛求生\game-o.cpp(393,22): message : 没有使该转换得以执行的上下文
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(225,6): message : 或    “void outtextxy(int,int,LPCTSTR)”
+D:\visual studio\荒岛求生\game-o.cpp(393,2): message : “void outtextxy(int,int,LPCTSTR)”: 无法将参数 3 从“const char [17]”转换为“LPCTSTR”
+D:\visual studio\荒岛求生\game-o.cpp(393,22): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+D:\visual studio\荒岛求生\game-o.cpp(393,2): message : 尝试匹配参数列表“(int, int, const char [17])”时
+D:\visual studio\荒岛求生\game-o.cpp(411,5): error C2664: “int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)”: 无法将参数 2 从“const char [25]”转换为“LPCWSTR”
+D:\visual studio\荒岛求生\game-o.cpp(411,22): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(9161,1): message : 参见“MessageBoxW”的声明
+D:\visual studio\荒岛求生\game-o.cpp(411,5): message : 尝试匹配参数列表“(int, const char [25], const char [9], long)”时
+D:\visual studio\荒岛求生\game-o.cpp(419,5): error C2664: “int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)”: 无法将参数 2 从“const char [11]”转换为“LPCWSTR”
+D:\visual studio\荒岛求生\game-o.cpp(419,22): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(9161,1): message : 参见“MessageBoxW”的声明
+D:\visual studio\荒岛求生\game-o.cpp(419,5): message : 尝试匹配参数列表“(int, const char [11], const char [9], long)”时
+D:\visual studio\荒岛求生\game-o.cpp(435,2): error C2665: “loadimage”: 没有重载函数可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(259,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”
+D:\visual studio\荒岛求生\game-o.cpp(435,2): message : “void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [21]”转换为“LPCTSTR”
+D:\visual studio\荒岛求生\game-o.cpp(435,25): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(258,6): message : 或    “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+D:\visual studio\荒岛求生\game-o.cpp(435,2): message : “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [21]”转换为“LPCTSTR”
+D:\visual studio\荒岛求生\game-o.cpp(435,25): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+D:\visual studio\荒岛求生\game-o.cpp(435,2): message : 尝试匹配参数列表“(IMAGE *, const char [21], int, int)”时
+D:\visual studio\荒岛求生\game-o.cpp(436,2): error C2665: “loadimage”: 没有重载函数可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(259,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”
+D:\visual studio\荒岛求生\game-o.cpp(436,2): message : “void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [20]”转换为“LPCTSTR”
+D:\visual studio\荒岛求生\game-o.cpp(436,24): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(258,6): message : 或    “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+D:\visual studio\荒岛求生\game-o.cpp(436,2): message : “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [20]”转换为“LPCTSTR”
+D:\visual studio\荒岛求生\game-o.cpp(436,24): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+D:\visual studio\荒岛求生\game-o.cpp(436,2): message : 尝试匹配参数列表“(IMAGE *, const char [20], int, int)”时
+D:\visual studio\荒岛求生\game-o.cpp(437,2): error C2665: “loadimage”: 没有重载函数可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(259,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”
+D:\visual studio\荒岛求生\game-o.cpp(437,2): message : “void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [19]”转换为“LPCTSTR”
+D:\visual studio\荒岛求生\game-o.cpp(437,23): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(258,6): message : 或    “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+D:\visual studio\荒岛求生\game-o.cpp(437,2): message : “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [19]”转换为“LPCTSTR”
+D:\visual studio\荒岛求生\game-o.cpp(437,23): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+D:\visual studio\荒岛求生\game-o.cpp(437,2): message : 尝试匹配参数列表“(IMAGE *, const char [19], int, int)”时
+D:\visual studio\荒岛求生\game-o.cpp(438,2): error C2665: “loadimage”: 没有重载函数可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(259,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”
+D:\visual studio\荒岛求生\game-o.cpp(438,2): message : “void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [19]”转换为“LPCTSTR”
+D:\visual studio\荒岛求生\game-o.cpp(438,23): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(258,6): message : 或    “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+D:\visual studio\荒岛求生\game-o.cpp(438,2): message : “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [19]”转换为“LPCTSTR”
+D:\visual studio\荒岛求生\game-o.cpp(438,23): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+D:\visual studio\荒岛求生\game-o.cpp(438,2): message : 尝试匹配参数列表“(IMAGE *, const char [19], int, int)”时
+D:\visual studio\荒岛求生\game-o.cpp(439,2): error C2665: “loadimage”: 没有重载函数可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(259,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”
+D:\visual studio\荒岛求生\game-o.cpp(439,2): message : “void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [18]”转换为“LPCTSTR”
+D:\visual studio\荒岛求生\game-o.cpp(439,22): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(258,6): message : 或    “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+D:\visual studio\荒岛求生\game-o.cpp(439,2): message : “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [18]”转换为“LPCTSTR”
+D:\visual studio\荒岛求生\game-o.cpp(439,22): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+D:\visual studio\荒岛求生\game-o.cpp(439,2): message : 尝试匹配参数列表“(IMAGE *, const char [18], int, int)”时
+D:\visual studio\荒岛求生\game-o.cpp(440,2): error C2665: “loadimage”: 没有重载函数可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(259,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”
+D:\visual studio\荒岛求生\game-o.cpp(440,2): message : “void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [19]”转换为“LPCTSTR”
+D:\visual studio\荒岛求生\game-o.cpp(440,22): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(258,6): message : 或    “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+D:\visual studio\荒岛求生\game-o.cpp(440,2): message : “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [19]”转换为“LPCTSTR”
+D:\visual studio\荒岛求生\game-o.cpp(440,22): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+D:\visual studio\荒岛求生\game-o.cpp(440,2): message : 尝试匹配参数列表“(IMAGE *, const char [19], int, int)”时
+D:\visual studio\荒岛求生\game-o.cpp(441,2): error C2665: “loadimage”: 没有重载函数可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(259,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”
+D:\visual studio\荒岛求生\game-o.cpp(441,2): message : “void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [20]”转换为“LPCTSTR”
+D:\visual studio\荒岛求生\game-o.cpp(441,23): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(258,6): message : 或    “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+D:\visual studio\荒岛求生\game-o.cpp(441,2): message : “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [20]”转换为“LPCTSTR”
+D:\visual studio\荒岛求生\game-o.cpp(441,23): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+D:\visual studio\荒岛求生\game-o.cpp(441,2): message : 尝试匹配参数列表“(IMAGE *, const char [20], int, int)”时
+D:\visual studio\荒岛求生\game-o.cpp(442,2): error C2665: “loadimage”: 没有重载函数可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(259,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”
+D:\visual studio\荒岛求生\game-o.cpp(442,2): message : “void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [20]”转换为“LPCTSTR”
+D:\visual studio\荒岛求生\game-o.cpp(442,23): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(258,6): message : 或    “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+D:\visual studio\荒岛求生\game-o.cpp(442,2): message : “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [20]”转换为“LPCTSTR”
+D:\visual studio\荒岛求生\game-o.cpp(442,23): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+D:\visual studio\荒岛求生\game-o.cpp(442,2): message : 尝试匹配参数列表“(IMAGE *, const char [20], int, int)”时
+D:\visual studio\荒岛求生\game-o.cpp(443,2): error C2665: “loadimage”: 没有重载函数可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(259,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”
+D:\visual studio\荒岛求生\game-o.cpp(443,2): message : “void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [19]”转换为“LPCTSTR”
+D:\visual studio\荒岛求生\game-o.cpp(443,22): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(258,6): message : 或    “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+D:\visual studio\荒岛求生\game-o.cpp(443,2): message : “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [19]”转换为“LPCTSTR”
+D:\visual studio\荒岛求生\game-o.cpp(443,22): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+D:\visual studio\荒岛求生\game-o.cpp(443,2): message : 尝试匹配参数列表“(IMAGE *, const char [19], int, int)”时
+D:\visual studio\荒岛求生\game-o.cpp(444,2): error C2665: “loadimage”: 没有重载函数可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(259,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”
+D:\visual studio\荒岛求生\game-o.cpp(444,2): message : “void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [19]”转换为“LPCTSTR”
+D:\visual studio\荒岛求生\game-o.cpp(444,22): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(258,6): message : 或    “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+D:\visual studio\荒岛求生\game-o.cpp(444,2): message : “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [19]”转换为“LPCTSTR”
+D:\visual studio\荒岛求生\game-o.cpp(444,22): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+D:\visual studio\荒岛求生\game-o.cpp(444,2): message : 尝试匹配参数列表“(IMAGE *, const char [19], int, int)”时
+D:\visual studio\荒岛求生\game-o.cpp(445,2): error C2665: “loadimage”: 没有重载函数可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(259,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”
+D:\visual studio\荒岛求生\game-o.cpp(445,2): message : “void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [20]”转换为“LPCTSTR”
+D:\visual studio\荒岛求生\game-o.cpp(445,23): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(258,6): message : 或    “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+D:\visual studio\荒岛求生\game-o.cpp(445,2): message : “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [20]”转换为“LPCTSTR”
+D:\visual studio\荒岛求生\game-o.cpp(445,23): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+D:\visual studio\荒岛求生\game-o.cpp(445,2): message : 尝试匹配参数列表“(IMAGE *, const char [20], int, int)”时
+D:\visual studio\荒岛求生\game-o.cpp(446,2): error C2665: “loadimage”: 没有重载函数可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(259,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”
+D:\visual studio\荒岛求生\game-o.cpp(446,2): message : “void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [19]”转换为“LPCTSTR”
+D:\visual studio\荒岛求生\game-o.cpp(446,22): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(258,6): message : 或    “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+D:\visual studio\荒岛求生\game-o.cpp(446,2): message : “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [19]”转换为“LPCTSTR”
+D:\visual studio\荒岛求生\game-o.cpp(446,22): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+D:\visual studio\荒岛求生\game-o.cpp(446,2): message : 尝试匹配参数列表“(IMAGE *, const char [19], int, int)”时
+D:\visual studio\荒岛求生\game-o.cpp(447,2): error C2665: “loadimage”: 没有重载函数可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(259,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”
+D:\visual studio\荒岛求生\game-o.cpp(447,2): message : “void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [20]”转换为“LPCTSTR”
+D:\visual studio\荒岛求生\game-o.cpp(447,23): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(258,6): message : 或    “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+D:\visual studio\荒岛求生\game-o.cpp(447,2): message : “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [20]”转换为“LPCTSTR”
+D:\visual studio\荒岛求生\game-o.cpp(447,23): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+D:\visual studio\荒岛求生\game-o.cpp(447,2): message : 尝试匹配参数列表“(IMAGE *, const char [20], int, int)”时
+D:\visual studio\荒岛求生\game-o.cpp(448,2): error C2665: “loadimage”: 没有重载函数可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(259,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”
+D:\visual studio\荒岛求生\game-o.cpp(448,2): message : “void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [20]”转换为“LPCTSTR”
+D:\visual studio\荒岛求生\game-o.cpp(448,24): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(258,6): message : 或    “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+D:\visual studio\荒岛求生\game-o.cpp(448,2): message : “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [20]”转换为“LPCTSTR”
+D:\visual studio\荒岛求生\game-o.cpp(448,24): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+D:\visual studio\荒岛求生\game-o.cpp(448,2): message : 尝试匹配参数列表“(IMAGE *, const char [20], int, int)”时
+D:\visual studio\荒岛求生\game-o.cpp(449,2): error C2665: “loadimage”: 没有重载函数可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(259,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”
+D:\visual studio\荒岛求生\game-o.cpp(449,2): message : “void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [19]”转换为“LPCTSTR”
+D:\visual studio\荒岛求生\game-o.cpp(449,23): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(258,6): message : 或    “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+D:\visual studio\荒岛求生\game-o.cpp(449,2): message : “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [19]”转换为“LPCTSTR”
+D:\visual studio\荒岛求生\game-o.cpp(449,23): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+D:\visual studio\荒岛求生\game-o.cpp(449,2): message : 尝试匹配参数列表“(IMAGE *, const char [19], int, int)”时
+D:\visual studio\荒岛求生\game-o.cpp(450,2): error C2665: “loadimage”: 没有重载函数可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(259,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”
+D:\visual studio\荒岛求生\game-o.cpp(450,2): message : “void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [20]”转换为“LPCTSTR”
+D:\visual studio\荒岛求生\game-o.cpp(450,24): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(258,6): message : 或    “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+D:\visual studio\荒岛求生\game-o.cpp(450,2): message : “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [20]”转换为“LPCTSTR”
+D:\visual studio\荒岛求生\game-o.cpp(450,24): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+D:\visual studio\荒岛求生\game-o.cpp(450,2): message : 尝试匹配参数列表“(IMAGE *, const char [20], int, int)”时
+D:\visual studio\荒岛求生\game-o.cpp(451,2): error C2665: “loadimage”: 没有重载函数可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(259,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”
+D:\visual studio\荒岛求生\game-o.cpp(451,2): message : “void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [19]”转换为“LPCTSTR”
+D:\visual studio\荒岛求生\game-o.cpp(451,23): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(258,6): message : 或    “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+D:\visual studio\荒岛求生\game-o.cpp(451,2): message : “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [19]”转换为“LPCTSTR”
+D:\visual studio\荒岛求生\game-o.cpp(451,23): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+D:\visual studio\荒岛求生\game-o.cpp(451,2): message : 尝试匹配参数列表“(IMAGE *, const char [19], int, int)”时
+D:\visual studio\荒岛求生\game-o.cpp(452,2): error C2665: “loadimage”: 没有重载函数可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(259,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”
+D:\visual studio\荒岛求生\game-o.cpp(452,2): message : “void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [20]”转换为“LPCTSTR”
+D:\visual studio\荒岛求生\game-o.cpp(452,24): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(258,6): message : 或    “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+D:\visual studio\荒岛求生\game-o.cpp(452,2): message : “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [20]”转换为“LPCTSTR”
+D:\visual studio\荒岛求生\game-o.cpp(452,24): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+D:\visual studio\荒岛求生\game-o.cpp(452,2): message : 尝试匹配参数列表“(IMAGE *, const char [20], int, int)”时
+D:\visual studio\荒岛求生\game-o.cpp(453,2): error C2665: “loadimage”: 没有重载函数可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(259,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”
+D:\visual studio\荒岛求生\game-o.cpp(453,2): message : “void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [22]”转换为“LPCTSTR”
+D:\visual studio\荒岛求生\game-o.cpp(453,25): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(258,6): message : 或    “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+D:\visual studio\荒岛求生\game-o.cpp(453,2): message : “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [22]”转换为“LPCTSTR”
+D:\visual studio\荒岛求生\game-o.cpp(453,25): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+D:\visual studio\荒岛求生\game-o.cpp(453,2): message : 尝试匹配参数列表“(IMAGE *, const char [22], int, int)”时
+D:\visual studio\荒岛求生\game-o.cpp(454,2): error C2665: “loadimage”: 没有重载函数可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(259,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”
+D:\visual studio\荒岛求生\game-o.cpp(454,2): message : “void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [23]”转换为“LPCTSTR”
+D:\visual studio\荒岛求生\game-o.cpp(454,26): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(258,6): message : 或    “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+D:\visual studio\荒岛求生\game-o.cpp(454,2): message : “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [23]”转换为“LPCTSTR”
+D:\visual studio\荒岛求生\game-o.cpp(454,26): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+D:\visual studio\荒岛求生\game-o.cpp(454,2): message : 尝试匹配参数列表“(IMAGE *, const char [23], int, int)”时
+D:\visual studio\荒岛求生\game-o.cpp(455,2): error C2665: “loadimage”: 没有重载函数可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(259,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”
+D:\visual studio\荒岛求生\game-o.cpp(455,2): message : “void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [22]”转换为“LPCTSTR”
+D:\visual studio\荒岛求生\game-o.cpp(455,25): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(258,6): message : 或    “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+D:\visual studio\荒岛求生\game-o.cpp(455,2): message : “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [22]”转换为“LPCTSTR”
+D:\visual studio\荒岛求生\game-o.cpp(455,25): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+D:\visual studio\荒岛求生\game-o.cpp(455,2): message : 尝试匹配参数列表“(IMAGE *, const char [22], int, int)”时
+D:\visual studio\荒岛求生\game-o.cpp(456,2): error C2665: “loadimage”: 没有重载函数可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(259,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”
+D:\visual studio\荒岛求生\game-o.cpp(456,2): message : “void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [23]”转换为“LPCTSTR”
+D:\visual studio\荒岛求生\game-o.cpp(456,26): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(258,6): message : 或    “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+D:\visual studio\荒岛求生\game-o.cpp(456,2): message : “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [23]”转换为“LPCTSTR”
+D:\visual studio\荒岛求生\game-o.cpp(456,26): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+D:\visual studio\荒岛求生\game-o.cpp(456,2): message : 尝试匹配参数列表“(IMAGE *, const char [23], int, int)”时
+D:\visual studio\荒岛求生\game-o.cpp(457,2): error C2665: “loadimage”: 没有重载函数可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(259,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”
+D:\visual studio\荒岛求生\game-o.cpp(457,2): message : “void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [22]”转换为“LPCTSTR”
+D:\visual studio\荒岛求生\game-o.cpp(457,25): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(258,6): message : 或    “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+D:\visual studio\荒岛求生\game-o.cpp(457,2): message : “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [22]”转换为“LPCTSTR”
+D:\visual studio\荒岛求生\game-o.cpp(457,25): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+D:\visual studio\荒岛求生\game-o.cpp(457,2): message : 尝试匹配参数列表“(IMAGE *, const char [22], int, int)”时
+D:\visual studio\荒岛求生\game-o.cpp(458,2): error C2665: “loadimage”: 没有重载函数可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(259,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”
+D:\visual studio\荒岛求生\game-o.cpp(458,2): message : “void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [23]”转换为“LPCTSTR”
+D:\visual studio\荒岛求生\game-o.cpp(458,26): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(258,6): message : 或    “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+D:\visual studio\荒岛求生\game-o.cpp(458,2): message : “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [23]”转换为“LPCTSTR”
+D:\visual studio\荒岛求生\game-o.cpp(458,26): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+D:\visual studio\荒岛求生\game-o.cpp(458,2): message : 尝试匹配参数列表“(IMAGE *, const char [23], int, int)”时
+D:\visual studio\荒岛求生\game-o.cpp(459,2): error C2665: “loadimage”: 没有重载函数可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(259,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”
+D:\visual studio\荒岛求生\game-o.cpp(459,2): message : “void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [22]”转换为“LPCTSTR”
+D:\visual studio\荒岛求生\game-o.cpp(459,25): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(258,6): message : 或    “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+D:\visual studio\荒岛求生\game-o.cpp(459,2): message : “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [22]”转换为“LPCTSTR”
+D:\visual studio\荒岛求生\game-o.cpp(459,25): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+D:\visual studio\荒岛求生\game-o.cpp(459,2): message : 尝试匹配参数列表“(IMAGE *, const char [22], int, int)”时
+D:\visual studio\荒岛求生\game-o.cpp(460,2): error C2665: “loadimage”: 没有重载函数可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(259,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”
+D:\visual studio\荒岛求生\game-o.cpp(460,2): message : “void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [23]”转换为“LPCTSTR”
+D:\visual studio\荒岛求生\game-o.cpp(460,26): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(258,6): message : 或    “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+D:\visual studio\荒岛求生\game-o.cpp(460,2): message : “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [23]”转换为“LPCTSTR”
+D:\visual studio\荒岛求生\game-o.cpp(460,26): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+D:\visual studio\荒岛求生\game-o.cpp(460,2): message : 尝试匹配参数列表“(IMAGE *, const char [23], int, int)”时
+D:\visual studio\荒岛求生\game-o.cpp(461,2): error C2665: “loadimage”: 没有重载函数可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(259,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”
+D:\visual studio\荒岛求生\game-o.cpp(461,2): message : “void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [20]”转换为“LPCTSTR”
+D:\visual studio\荒岛求生\game-o.cpp(461,24): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(258,6): message : 或    “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+D:\visual studio\荒岛求生\game-o.cpp(461,2): message : “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [20]”转换为“LPCTSTR”
+D:\visual studio\荒岛求生\game-o.cpp(461,24): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+D:\visual studio\荒岛求生\game-o.cpp(461,2): message : 尝试匹配参数列表“(IMAGE *, const char [20], int, int)”时
+D:\visual studio\荒岛求生\game-o.cpp(462,2): error C2665: “loadimage”: 没有重载函数可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(259,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”
+D:\visual studio\荒岛求生\game-o.cpp(462,2): message : “void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [22]”转换为“LPCTSTR”
+D:\visual studio\荒岛求生\game-o.cpp(462,25): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(258,6): message : 或    “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+D:\visual studio\荒岛求生\game-o.cpp(462,2): message : “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [22]”转换为“LPCTSTR”
+D:\visual studio\荒岛求生\game-o.cpp(462,25): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+D:\visual studio\荒岛求生\game-o.cpp(462,2): message : 尝试匹配参数列表“(IMAGE *, const char [22], int, int)”时
+D:\visual studio\荒岛求生\game-o.cpp(463,2): error C2665: “loadimage”: 没有重载函数可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(259,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”
+D:\visual studio\荒岛求生\game-o.cpp(463,2): message : “void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [23]”转换为“LPCTSTR”
+D:\visual studio\荒岛求生\game-o.cpp(463,27): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(258,6): message : 或    “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+D:\visual studio\荒岛求生\game-o.cpp(463,2): message : “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [23]”转换为“LPCTSTR”
+D:\visual studio\荒岛求生\game-o.cpp(463,27): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+D:\visual studio\荒岛求生\game-o.cpp(463,2): message : 尝试匹配参数列表“(IMAGE *, const char [23], int, int)”时
+D:\visual studio\荒岛求生\game-o.cpp(464,2): error C2665: “loadimage”: 没有重载函数可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(259,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”
+D:\visual studio\荒岛求生\game-o.cpp(464,2): message : “void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [25]”转换为“LPCTSTR”
+D:\visual studio\荒岛求生\game-o.cpp(464,28): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(258,6): message : 或    “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+D:\visual studio\荒岛求生\game-o.cpp(464,2): message : “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [25]”转换为“LPCTSTR”
+D:\visual studio\荒岛求生\game-o.cpp(464,28): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+D:\visual studio\荒岛求生\game-o.cpp(464,2): message : 尝试匹配参数列表“(IMAGE *, const char [25], int, int)”时
+D:\visual studio\荒岛求生\game-o.cpp(465,2): error C2665: “loadimage”: 没有重载函数可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(259,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”
+D:\visual studio\荒岛求生\game-o.cpp(465,2): message : “void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [22]”转换为“LPCTSTR”
+D:\visual studio\荒岛求生\game-o.cpp(465,26): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(258,6): message : 或    “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+D:\visual studio\荒岛求生\game-o.cpp(465,2): message : “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [22]”转换为“LPCTSTR”
+D:\visual studio\荒岛求生\game-o.cpp(465,26): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+D:\visual studio\荒岛求生\game-o.cpp(465,2): message : 尝试匹配参数列表“(IMAGE *, const char [22], int, int)”时
+D:\visual studio\荒岛求生\game-o.cpp(466,2): error C2665: “loadimage”: 没有重载函数可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(259,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”
+D:\visual studio\荒岛求生\game-o.cpp(466,2): message : “void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [24]”转换为“LPCTSTR”
+D:\visual studio\荒岛求生\game-o.cpp(466,27): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(258,6): message : 或    “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+D:\visual studio\荒岛求生\game-o.cpp(466,2): message : “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [24]”转换为“LPCTSTR”
+D:\visual studio\荒岛求生\game-o.cpp(466,27): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+D:\visual studio\荒岛求生\game-o.cpp(466,2): message : 尝试匹配参数列表“(IMAGE *, const char [24], int, int)”时
+D:\visual studio\荒岛求生\game-o.cpp(467,2): error C2665: “loadimage”: 没有重载函数可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(259,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”
+D:\visual studio\荒岛求生\game-o.cpp(467,2): message : “void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [21]”转换为“LPCTSTR”
+D:\visual studio\荒岛求生\game-o.cpp(467,25): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(258,6): message : 或    “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+D:\visual studio\荒岛求生\game-o.cpp(467,2): message : “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [21]”转换为“LPCTSTR”
+D:\visual studio\荒岛求生\game-o.cpp(467,25): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+D:\visual studio\荒岛求生\game-o.cpp(467,2): message : 尝试匹配参数列表“(IMAGE *, const char [21], int, int)”时
+D:\visual studio\荒岛求生\game-o.cpp(468,2): error C2665: “loadimage”: 没有重载函数可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(259,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”
+D:\visual studio\荒岛求生\game-o.cpp(468,2): message : “void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [24]”转换为“LPCTSTR”
+D:\visual studio\荒岛求生\game-o.cpp(468,27): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(258,6): message : 或    “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+D:\visual studio\荒岛求生\game-o.cpp(468,2): message : “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [24]”转换为“LPCTSTR”
+D:\visual studio\荒岛求生\game-o.cpp(468,27): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+D:\visual studio\荒岛求生\game-o.cpp(468,2): message : 尝试匹配参数列表“(IMAGE *, const char [24], int, int)”时
+D:\visual studio\荒岛求生\game-o.cpp(476,2): error C2665: “settextstyle”: 没有重载函数可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(249,6): message : 可能是“void settextstyle(int,int,LPCTSTR)”
+D:\visual studio\荒岛求生\game-o.cpp(476,2): message : “void settextstyle(int,int,LPCTSTR)”: 无法将参数 3 从“const char [9]”转换为“LPCTSTR”
+D:\visual studio\荒岛求生\game-o.cpp(476,23): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+D:\visual studio\荒岛求生\game-o.cpp(476,2): message : 尝试匹配参数列表“(int, int, const char [9])”时
+D:\visual studio\荒岛求生\game-o.cpp(478,2): error C2664: “BOOL SetWindowTextW(HWND,LPCWSTR)”: 无法将参数 2 从“const char [9]”转换为“LPCWSTR”
+D:\visual studio\荒岛求生\game-o.cpp(478,21): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(8910,1): message : 参见“SetWindowTextW”的声明
+D:\visual studio\荒岛求生\game-o.cpp(478,2): message : 尝试匹配参数列表“(HWND, const char [9])”时
+D:\visual studio\荒岛求生\game-o.cpp(480,2): error C2665: “outtextxy”: 没有重载函数可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(226,6): message : 可能是“void outtextxy(int,int,TCHAR)”
+D:\visual studio\荒岛求生\game-o.cpp(480,2): message : “void outtextxy(int,int,TCHAR)”: 无法将参数 3 从“const char [9]”转换为“TCHAR”
+D:\visual studio\荒岛求生\game-o.cpp(480,22): message : 没有使该转换得以执行的上下文
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(225,6): message : 或    “void outtextxy(int,int,LPCTSTR)”
+D:\visual studio\荒岛求生\game-o.cpp(480,2): message : “void outtextxy(int,int,LPCTSTR)”: 无法将参数 3 从“const char [9]”转换为“LPCTSTR”
+D:\visual studio\荒岛求生\game-o.cpp(480,22): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+D:\visual studio\荒岛求生\game-o.cpp(480,2): message : 尝试匹配参数列表“(int, int, const char [9])”时
+D:\visual studio\荒岛求生\game-o.cpp(517,13): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+D:\visual studio\荒岛求生\game-o.cpp(524,3): error C2664: “int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)”: 无法将参数 2 从“const char [25]”转换为“LPCWSTR”
+D:\visual studio\荒岛求生\game-o.cpp(524,20): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(9161,1): message : 参见“MessageBoxW”的声明
+D:\visual studio\荒岛求生\game-o.cpp(524,3): message : 尝试匹配参数列表“(int, const char [25], const char [9], long)”时
+D:\visual studio\荒岛求生\game-o.cpp(529,2): error C2665: “settextstyle”: 没有重载函数可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(249,6): message : 可能是“void settextstyle(int,int,LPCTSTR)”
+D:\visual studio\荒岛求生\game-o.cpp(529,2): message : “void settextstyle(int,int,LPCTSTR)”: 无法将参数 3 从“const char [9]”转换为“LPCTSTR”
+D:\visual studio\荒岛求生\game-o.cpp(529,22): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+D:\visual studio\荒岛求生\game-o.cpp(529,2): message : 尝试匹配参数列表“(int, int, const char [9])”时
+D:\visual studio\荒岛求生\game-o.cpp(536,3): error C2664: “int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)”: 无法将参数 2 从“const char [35]”转换为“LPCWSTR”
+D:\visual studio\荒岛求生\game-o.cpp(536,20): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(9161,1): message : 参见“MessageBoxW”的声明
+D:\visual studio\荒岛求生\game-o.cpp(536,3): message : 尝试匹配参数列表“(int, const char [35], const char [9], long)”时
+D:\visual studio\荒岛求生\game-o.cpp(543,3): error C2664: “int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)”: 无法将参数 2 从“const char [35]”转换为“LPCWSTR”
+D:\visual studio\荒岛求生\game-o.cpp(543,20): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(9161,1): message : 参见“MessageBoxW”的声明
+D:\visual studio\荒岛求生\game-o.cpp(543,3): message : 尝试匹配参数列表“(int, const char [35], const char [9], long)”时
+D:\visual studio\荒岛求生\game-o.cpp(550,3): error C2664: “int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)”: 无法将参数 2 从“const char [35]”转换为“LPCWSTR”
+D:\visual studio\荒岛求生\game-o.cpp(550,20): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(9161,1): message : 参见“MessageBoxW”的声明
+D:\visual studio\荒岛求生\game-o.cpp(550,3): message : 尝试匹配参数列表“(int, const char [35], const char [9], long)”时
+D:\visual studio\荒岛求生\game-o.cpp(555,78): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(555,71): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(558,48): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(558,41): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(563,48): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(563,41): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(571,78): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(571,71): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(574,48): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(574,41): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(579,48): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(579,41): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(586,78): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(586,71): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(589,48): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(589,41): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(594,48): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(594,41): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(601,77): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(601,70): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(603,31): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(603,24): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(607,48): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(607,41): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(614,78): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(614,71): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(617,48): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(617,41): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(622,48): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(622,41): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(628,72): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(628,67): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(631,46): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(631,41): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(636,46): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(636,41): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(644,78): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(644,71): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(646,30): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(646,23): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(650,48): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(650,41): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(657,78): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(657,71): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(659,31): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(659,24): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(663,48): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(663,41): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(670,78): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(670,71): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(673,48): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(673,41): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(678,48): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(678,41): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(686,78): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(686,71): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(689,48): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(689,41): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(694,48): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(694,41): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(702,78): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(702,71): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(705,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(705,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(710,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(710,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(718,78): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(718,71): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(721,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(721,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(726,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(726,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(734,78): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(734,71): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(737,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(737,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(742,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(742,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(750,78): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(750,71): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(753,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(753,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(758,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(758,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(766,78): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(766,71): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(769,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(769,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(774,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(774,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(781,77): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(781,71): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(784,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(784,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(789,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(789,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(796,78): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(796,71): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(799,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(799,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(804,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(804,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(811,73): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(811,68): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(814,47): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(814,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(819,47): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(819,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(826,76): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(826,69): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(829,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(829,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(834,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(834,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(841,75): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(841,68): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(844,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(844,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(849,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(849,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(856,78): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(856,71): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(859,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(859,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(864,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(864,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(871,78): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(871,71): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(874,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(874,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(879,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(879,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(886,75): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(886,69): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(889,48): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(889,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(894,48): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(894,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(900,78): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(900,71): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(903,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(903,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(908,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(908,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(914,78): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(914,71): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(917,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(917,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(922,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(922,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(934,78): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(934,71): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(937,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(937,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(942,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(942,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(950,78): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(950,71): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(953,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(953,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(958,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(958,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(966,73): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(966,68): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(969,47): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(969,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(974,47): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(974,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(982,77): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(982,70): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(985,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(985,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(990,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(990,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(998,78): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(998,71): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1001,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1001,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1006,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1006,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1014,78): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1014,71): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1017,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1017,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1022,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1022,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1030,78): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1030,71): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1033,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1033,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1038,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1038,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1046,78): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1046,71): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1049,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1049,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1054,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1054,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1062,77): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1062,70): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1065,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1065,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1070,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1070,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1078,78): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1078,71): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1081,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1081,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1086,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1086,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1094,78): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1094,71): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1097,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1097,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1102,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1102,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1110,78): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1110,71): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1113,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1113,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1118,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1118,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1125,77): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1125,70): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1128,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1128,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1133,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1133,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1140,78): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1140,71): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1143,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1143,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1148,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1148,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1155,78): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1155,71): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1158,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1158,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1163,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1163,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1170,78): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1170,71): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1173,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1173,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1178,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1178,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1185,78): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1185,71): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1188,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1188,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1193,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1193,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1200,70): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1200,66): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1203,47): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1203,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1208,47): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1208,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1215,78): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1215,71): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1218,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1218,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1223,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1223,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1230,78): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1230,71): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1233,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1233,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1238,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1238,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1245,78): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1245,71): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1248,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1248,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1253,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1253,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1260,78): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1260,71): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1263,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1263,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1268,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1268,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1275,78): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1275,71): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1278,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1278,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1283,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1283,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1290,76): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1290,69): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1292,31): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1292,24): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1296,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1296,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1303,78): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1303,71): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1305,31): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1305,24): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1309,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1309,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1316,75): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1316,69): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1319,48): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1319,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1324,48): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1324,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1330,73): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1330,68): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1333,47): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1333,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1338,47): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1338,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1344,78): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1344,71): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1347,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1347,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1352,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1352,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1358,78): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1358,71): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1361,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1361,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1366,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1366,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1375,78): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1375,71): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1378,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1378,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1383,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1383,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1391,78): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1391,71): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1394,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1394,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1399,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1399,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1407,78): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1407,71): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1410,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1410,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1415,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1415,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1423,78): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1423,71): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1426,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1426,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1431,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1431,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1439,78): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1439,71): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1442,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1442,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1447,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1447,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1455,78): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1455,71): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1458,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1458,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1463,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1463,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1471,73): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1471,68): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1474,47): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1474,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1479,47): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1479,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1487,78): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1487,71): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1490,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1490,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1495,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1495,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1503,78): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1503,71): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1506,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1506,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1511,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1511,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1519,78): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1519,71): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1522,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1522,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1527,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1527,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1535,78): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1535,71): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1538,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1538,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1543,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1543,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1550,75): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1550,69): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1553,48): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1553,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1558,48): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1558,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1565,78): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1565,71): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1568,48): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1568,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1573,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1573,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1580,78): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1580,71): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1583,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1583,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1588,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1588,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1595,78): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1595,71): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1598,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1598,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1603,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1603,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1610,78): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1610,71): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1613,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1613,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1618,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1618,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1625,78): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1625,71): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1628,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1628,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1633,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1633,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1640,78): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1640,71): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1643,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1643,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1648,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1648,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1655,78): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1655,71): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1658,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1658,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1663,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1663,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1670,78): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1670,71): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1673,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1673,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1678,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1678,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1685,78): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1685,71): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1687,31): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1687,24): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1691,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1691,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1698,75): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1698,69): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1701,48): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1701,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1706,48): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1706,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1712,78): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1712,71): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1715,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1715,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1720,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1720,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1726,78): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1726,71): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1729,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1729,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1734,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1734,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1740,76): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1740,69): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1743,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1743,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1748,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1748,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1759,3): error C2665: “outtextxy”: 没有重载函数可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(226,6): message : 可能是“void outtextxy(int,int,TCHAR)”
+D:\visual studio\荒岛求生\game-o.cpp(1759,3): message : “void outtextxy(int,int,TCHAR)”: 无法将参数 3 从“char [10]”转换为“TCHAR”
+D:\visual studio\荒岛求生\game-o.cpp(1759,24): message : 没有使该转换得以执行的上下文
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(225,6): message : 或    “void outtextxy(int,int,LPCTSTR)”
+D:\visual studio\荒岛求生\game-o.cpp(1759,3): message : “void outtextxy(int,int,LPCTSTR)”: 无法将参数 3 从“char [10]”转换为“LPCTSTR”
+D:\visual studio\荒岛求生\game-o.cpp(1759,24): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+D:\visual studio\荒岛求生\game-o.cpp(1759,3): message : 尝试匹配参数列表“(int, int, char [10])”时
+D:\visual studio\荒岛求生\game-o.cpp(1764,3): error C2665: “outtextxy”: 没有重载函数可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(226,6): message : 可能是“void outtextxy(int,int,TCHAR)”
+D:\visual studio\荒岛求生\game-o.cpp(1764,3): message : “void outtextxy(int,int,TCHAR)”: 无法将参数 3 从“char [10]”转换为“TCHAR”
+D:\visual studio\荒岛求生\game-o.cpp(1764,24): message : 没有使该转换得以执行的上下文
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(225,6): message : 或    “void outtextxy(int,int,LPCTSTR)”
+D:\visual studio\荒岛求生\game-o.cpp(1764,3): message : “void outtextxy(int,int,LPCTSTR)”: 无法将参数 3 从“char [10]”转换为“LPCTSTR”
+D:\visual studio\荒岛求生\game-o.cpp(1764,24): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+D:\visual studio\荒岛求生\game-o.cpp(1764,3): message : 尝试匹配参数列表“(int, int, char [10])”时
+D:\visual studio\荒岛求生\game-o.cpp(1769,3): error C2665: “outtextxy”: 没有重载函数可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(226,6): message : 可能是“void outtextxy(int,int,TCHAR)”
+D:\visual studio\荒岛求生\game-o.cpp(1769,3): message : “void outtextxy(int,int,TCHAR)”: 无法将参数 3 从“char [10]”转换为“TCHAR”
+D:\visual studio\荒岛求生\game-o.cpp(1769,24): message : 没有使该转换得以执行的上下文
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(225,6): message : 或    “void outtextxy(int,int,LPCTSTR)”
+D:\visual studio\荒岛求生\game-o.cpp(1769,3): message : “void outtextxy(int,int,LPCTSTR)”: 无法将参数 3 从“char [10]”转换为“LPCTSTR”
+D:\visual studio\荒岛求生\game-o.cpp(1769,24): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+D:\visual studio\荒岛求生\game-o.cpp(1769,3): message : 尝试匹配参数列表“(int, int, char [10])”时
+D:\visual studio\荒岛求生\game-o.cpp(1781,2): error C2665: “outtextxy”: 没有重载函数可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(226,6): message : 可能是“void outtextxy(int,int,TCHAR)”
+D:\visual studio\荒岛求生\game-o.cpp(1781,2): message : “void outtextxy(int,int,TCHAR)”: 无法将参数 3 从“char [20]”转换为“TCHAR”
+D:\visual studio\荒岛求生\game-o.cpp(1781,23): message : 没有使该转换得以执行的上下文
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(225,6): message : 或    “void outtextxy(int,int,LPCTSTR)”
+D:\visual studio\荒岛求生\game-o.cpp(1781,2): message : “void outtextxy(int,int,LPCTSTR)”: 无法将参数 3 从“char [20]”转换为“LPCTSTR”
+D:\visual studio\荒岛求生\game-o.cpp(1781,23): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+D:\visual studio\荒岛求生\game-o.cpp(1781,2): message : 尝试匹配参数列表“(int, int, char [20])”时
+D:\visual studio\荒岛求生\game-o.cpp(1782,2): error C2665: “outtextxy”: 没有重载函数可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(226,6): message : 可能是“void outtextxy(int,int,TCHAR)”
+D:\visual studio\荒岛求生\game-o.cpp(1782,2): message : “void outtextxy(int,int,TCHAR)”: 无法将参数 3 从“char [20]”转换为“TCHAR”
+D:\visual studio\荒岛求生\game-o.cpp(1782,23): message : 没有使该转换得以执行的上下文
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(225,6): message : 或    “void outtextxy(int,int,LPCTSTR)”
+D:\visual studio\荒岛求生\game-o.cpp(1782,2): message : “void outtextxy(int,int,LPCTSTR)”: 无法将参数 3 从“char [20]”转换为“LPCTSTR”
+D:\visual studio\荒岛求生\game-o.cpp(1782,23): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+D:\visual studio\荒岛求生\game-o.cpp(1782,2): message : 尝试匹配参数列表“(int, int, char [20])”时
+D:\visual studio\荒岛求生\game-o.cpp(1783,2): error C2665: “outtextxy”: 没有重载函数可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(226,6): message : 可能是“void outtextxy(int,int,TCHAR)”
+D:\visual studio\荒岛求生\game-o.cpp(1783,2): message : “void outtextxy(int,int,TCHAR)”: 无法将参数 3 从“char [20]”转换为“TCHAR”
+D:\visual studio\荒岛求生\game-o.cpp(1783,22): message : 没有使该转换得以执行的上下文
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(225,6): message : 或    “void outtextxy(int,int,LPCTSTR)”
+D:\visual studio\荒岛求生\game-o.cpp(1783,2): message : “void outtextxy(int,int,LPCTSTR)”: 无法将参数 3 从“char [20]”转换为“LPCTSTR”
+D:\visual studio\荒岛求生\game-o.cpp(1783,22): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+D:\visual studio\荒岛求生\game-o.cpp(1783,2): message : 尝试匹配参数列表“(int, int, char [20])”时
+D:\visual studio\荒岛求生\game-o.cpp(1784,2): error C2665: “outtextxy”: 没有重载函数可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(226,6): message : 可能是“void outtextxy(int,int,TCHAR)”
+D:\visual studio\荒岛求生\game-o.cpp(1784,2): message : “void outtextxy(int,int,TCHAR)”: 无法将参数 3 从“char [20]”转换为“TCHAR”
+D:\visual studio\荒岛求生\game-o.cpp(1784,23): message : 没有使该转换得以执行的上下文
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(225,6): message : 或    “void outtextxy(int,int,LPCTSTR)”
+D:\visual studio\荒岛求生\game-o.cpp(1784,2): message : “void outtextxy(int,int,LPCTSTR)”: 无法将参数 3 从“char [20]”转换为“LPCTSTR”
+D:\visual studio\荒岛求生\game-o.cpp(1784,23): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+D:\visual studio\荒岛求生\game-o.cpp(1784,2): message : 尝试匹配参数列表“(int, int, char [20])”时
+D:\visual studio\荒岛求生\game-o.cpp(1785,2): error C2665: “outtextxy”: 没有重载函数可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(226,6): message : 可能是“void outtextxy(int,int,TCHAR)”
+D:\visual studio\荒岛求生\game-o.cpp(1785,2): message : “void outtextxy(int,int,TCHAR)”: 无法将参数 3 从“char [100]”转换为“TCHAR”
+D:\visual studio\荒岛求生\game-o.cpp(1785,22): message : 没有使该转换得以执行的上下文
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(225,6): message : 或    “void outtextxy(int,int,LPCTSTR)”
+D:\visual studio\荒岛求生\game-o.cpp(1785,2): message : “void outtextxy(int,int,LPCTSTR)”: 无法将参数 3 从“char [100]”转换为“LPCTSTR”
+D:\visual studio\荒岛求生\game-o.cpp(1785,22): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+D:\visual studio\荒岛求生\game-o.cpp(1785,2): message : 尝试匹配参数列表“(int, int, char [100])”时
+D:\visual studio\荒岛求生\game-o.cpp(1786,2): error C2665: “outtextxy”: 没有重载函数可以转换所有参数类型
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(226,6): message : 可能是“void outtextxy(int,int,TCHAR)”
+D:\visual studio\荒岛求生\game-o.cpp(1786,2): message : “void outtextxy(int,int,TCHAR)”: 无法将参数 3 从“char [4]”转换为“TCHAR”
+D:\visual studio\荒岛求生\game-o.cpp(1786,23): message : 没有使该转换得以执行的上下文
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(225,6): message : 或    “void outtextxy(int,int,LPCTSTR)”
+D:\visual studio\荒岛求生\game-o.cpp(1786,2): message : “void outtextxy(int,int,LPCTSTR)”: 无法将参数 3 从“char [4]”转换为“LPCTSTR”
+D:\visual studio\荒岛求生\game-o.cpp(1786,23): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+D:\visual studio\荒岛求生\game-o.cpp(1786,2): message : 尝试匹配参数列表“(int, int, char [4])”时
+D:\visual studio\荒岛求生\game-o.cpp(1807,24): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1807,20): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1814,24): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1814,20): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1821,23): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1821,20): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1828,23): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1828,20): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1835,23): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1835,20): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1842,24): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1842,20): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1849,23): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1849,20): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1856,23): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1856,20): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1868,23): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1868,20): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\visual studio\荒岛求生\game-o.cpp(1897,4): error C2664: “MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)”: 无法将参数 1 从“const char [37]”转换为“LPCWSTR”
+D:\visual studio\荒岛求生\game-o.cpp(1897,18): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\mciapi.h(87,1): message : 参见“mciSendStringW”的声明
+D:\visual studio\荒岛求生\game-o.cpp(1897,4): message : 尝试匹配参数列表“(const char [37], int, int, int)”时
+D:\visual studio\荒岛求生\game-o.cpp(1898,4): error C2664: “MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)”: 无法将参数 1 从“const char [10]”转换为“LPCWSTR”
+D:\visual studio\荒岛求生\game-o.cpp(1898,18): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\mciapi.h(87,1): message : 参见“mciSendStringW”的声明
+D:\visual studio\荒岛求生\game-o.cpp(1898,4): message : 尝试匹配参数列表“(const char [10], int, int, int)”时
+D:\visual studio\荒岛求生\game-o.cpp(1903,4): error C2664: “MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)”: 无法将参数 1 从“const char [11]”转换为“LPCWSTR”
+D:\visual studio\荒岛求生\game-o.cpp(1903,18): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\mciapi.h(87,1): message : 参见“mciSendStringW”的声明
+D:\visual studio\荒岛求生\game-o.cpp(1903,4): message : 尝试匹配参数列表“(const char [11], int, int, int)”时
+D:\visual studio\荒岛求生\game-o.cpp(1904,4): error C2664: “MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)”: 无法将参数 1 从“const char [37]”转换为“LPCWSTR”
+D:\visual studio\荒岛求生\game-o.cpp(1904,18): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\mciapi.h(87,1): message : 参见“mciSendStringW”的声明
+D:\visual studio\荒岛求生\game-o.cpp(1904,4): message : 尝试匹配参数列表“(const char [37], int, int, int)”时
+D:\visual studio\荒岛求生\game-o.cpp(1905,4): error C2664: “MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)”: 无法将参数 1 从“const char [10]”转换为“LPCWSTR”
+D:\visual studio\荒岛求生\game-o.cpp(1905,18): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\mciapi.h(87,1): message : 参见“mciSendStringW”的声明
+D:\visual studio\荒岛求生\game-o.cpp(1905,4): message : 尝试匹配参数列表“(const char [10], int, int, int)”时
+D:\visual studio\荒岛求生\game-o.cpp(1933,3): error C2664: “int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)”: 无法将参数 2 从“const char [30]”转换为“LPCWSTR”
+D:\visual studio\荒岛求生\game-o.cpp(1933,20): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(9161,1): message : 参见“MessageBoxW”的声明
+D:\visual studio\荒岛求生\game-o.cpp(1933,3): message : 尝试匹配参数列表“(int, const char [30], const char [9], long)”时
+D:\visual studio\荒岛求生\game-o.cpp(1955,2): error C2664: “MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)”: 无法将参数 1 从“const char [32]”转换为“LPCWSTR”
+D:\visual studio\荒岛求生\game-o.cpp(1955,16): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\mciapi.h(87,1): message : 参见“mciSendStringW”的声明
+D:\visual studio\荒岛求生\game-o.cpp(1955,2): message : 尝试匹配参数列表“(const char [32], int, int, int)”时
+D:\visual studio\荒岛求生\game-o.cpp(1956,2): error C2664: “MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)”: 无法将参数 1 从“const char [16]”转换为“LPCWSTR”
+D:\visual studio\荒岛求生\game-o.cpp(1956,16): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\mciapi.h(87,1): message : 参见“mciSendStringW”的声明
+D:\visual studio\荒岛求生\game-o.cpp(1956,2): message : 尝试匹配参数列表“(const char [16], int, int, int)”时
+D:\visual studio\荒岛求生\game-o.cpp(2437,2): error C2664: “MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)”: 无法将参数 1 从“const char [33]”转换为“LPCWSTR”
+D:\visual studio\荒岛求生\game-o.cpp(2437,16): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\mciapi.h(87,1): message : 参见“mciSendStringW”的声明
+D:\visual studio\荒岛求生\game-o.cpp(2437,2): message : 尝试匹配参数列表“(const char [33], int, int, int)”时
+D:\visual studio\荒岛求生\game-o.cpp(2438,2): error C2664: “MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)”: 无法将参数 1 从“const char [16]”转换为“LPCWSTR”
+D:\visual studio\荒岛求生\game-o.cpp(2438,16): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\mciapi.h(87,1): message : 参见“mciSendStringW”的声明
+D:\visual studio\荒岛求生\game-o.cpp(2438,2): message : 尝试匹配参数列表“(const char [16], int, int, int)”时
+D:\visual studio\荒岛求生\game-o.cpp(2450,6): error C2664: “int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)”: 无法将参数 2 从“const char [25]”转换为“LPCWSTR”
+D:\visual studio\荒岛求生\game-o.cpp(2450,23): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(9161,1): message : 参见“MessageBoxW”的声明
+D:\visual studio\荒岛求生\game-o.cpp(2450,6): message : 尝试匹配参数列表“(int, const char [25], const char [9], long)”时
+D:\visual studio\荒岛求生\game-o.cpp(2451,6): error C2664: “MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)”: 无法将参数 1 从“const char [10]”转换为“LPCWSTR”
+D:\visual studio\荒岛求生\game-o.cpp(2451,20): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\mciapi.h(87,1): message : 参见“mciSendStringW”的声明
+D:\visual studio\荒岛求生\game-o.cpp(2451,6): message : 尝试匹配参数列表“(const char [10], int, int, int)”时
+D:\visual studio\荒岛求生\game-o.cpp(2456,6): error C2664: “int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)”: 无法将参数 2 从“const char [503]”转换为“LPCWSTR”
+D:\visual studio\荒岛求生\game-o.cpp(2456,23): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(9161,1): message : 参见“MessageBoxW”的声明
+D:\visual studio\荒岛求生\game-o.cpp(2456,6): message : 尝试匹配参数列表“(int, const char [503], const char [9], long)”时
+D:\visual studio\荒岛求生\game-o.cpp(2460,6): error C2664: “MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)”: 无法将参数 1 从“const char [10]”转换为“LPCWSTR”
+D:\visual studio\荒岛求生\game-o.cpp(2460,20): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\mciapi.h(87,1): message : 参见“mciSendStringW”的声明
+D:\visual studio\荒岛求生\game-o.cpp(2460,6): message : 尝试匹配参数列表“(const char [10], int, int, int)”时
+D:\visual studio\荒岛求生\game-o.cpp(2484,6): error C2664: “int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)”: 无法将参数 2 从“char [1000]”转换为“LPCWSTR”
+D:\visual studio\荒岛求生\game-o.cpp(2484,73): fatal  error C1003: 错误计数超过 100；正在停止编译
